@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiii0529&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiii0529&show_icons=true&theme=dracula)  
 ![](https://komarev.com/ghpvc/?username=yukiii0529&color=brightgreen)
 
 <!--
