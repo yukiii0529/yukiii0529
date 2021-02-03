@@ -2,6 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=yukiii0529&color=brightgreen)
 ![](https://img.shields.io/static/v1?label=swift&message=89%&color=orange)
 
+
+<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+
 <!--
 **yukiii0529/yukiii0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
