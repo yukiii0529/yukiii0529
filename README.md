@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiii0529&show_icons=true&theme=dracula)  
 ![](https://komarev.com/ghpvc/?username=yukiii0529&color=brightgreen)
-![](https://img.shields.io/badge/swift-89%-orange)
+![](https://img.shields.io/static/v1?label=swift&message=89%&color=orange)
 
 <!--
 **yukiii0529/yukiii0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
