@@ -5,8 +5,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiii0529&langs_count=3&theme=dracula" />
 </a>  
 <img align="left" src="https://komarev.com/ghpvc/?username=yukiii0529&color=brightgreen" />
-<!-- ![](https://komarev.com/ghpvc/?username=Kiharaten&color=brightgreen) -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=10&theme=dracula&layout=compact" /> -->
+<!-- ![](https://komarev.com/ghpvc/?username=yukiii0529&color=brightgreen) -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiii0529&langs_count=10&theme=dracula&layout=compact" /> -->
 <!--
 **yukiii0529/yukiii0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
